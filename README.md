@@ -16,3 +16,15 @@ pip install langchain langchain-core langchain-community pypdf pymupdf
 | chromadb*                                | Vector database to store and query embeddings efficiently                              |
 
 
+# Step 1: Clone the repository
+git clone https://github.com/RakeshAnvekar/ArtificialIntelligence_Python.git
+cd your-repo-name
+
+# Step 2: Install dependencies
+pip install -r requirements.txt  # or follow manual installation above
+
+# Step 3: Run your script
+python main.py
+
+
+
