@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+
+--pip install sentence-transformers faiss-cpu chromadb
+
+setence-trasformers
+faiss-cpu # vector store
+chromadb
+pip show sentence-transformers
+pip show faiss-cpu
+pip show chromadb
+
