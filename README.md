@@ -24,7 +24,7 @@ cd your-repo-name
 pip install -r requirements.txt  # or follow manual installation above
 
 # Step 3: Run your script
-python main.py
+python DataIngestionPipeline.py
 
 
 
